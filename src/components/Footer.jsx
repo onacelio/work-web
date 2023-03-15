@@ -1,7 +1,7 @@
 export default function Footer() {
     return (
-        <div>
-            <p>Footer</p>
+        <div className="w-full flex flex-row">
+            <p>Oi</p>
         </div>
     )
 }
